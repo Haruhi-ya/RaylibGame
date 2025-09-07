@@ -1,0 +1,26 @@
+﻿D:\Visual Studio 2022 Community\Program\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Project1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Alldef.c
+D:\Code C\Raylib\Project1\Project1\Alldef.c(3,7): warning C4142: "Lenth": 类型的良性重定义
+      D:\Code C\Raylib\Project1\Project1\Head.h(5,8):
+      参见“Lenth”的声明
+  
+D:\Code C\Raylib\Project1\Project1\Alldef.c(4,7): warning C4142: "Width": 类型的良性重定义
+      D:\Code C\Raylib\Project1\Project1\Head.h(6,8):
+      参见“Width”的声明
+  
+  Demo.c
+D:\Code C\Raylib\Project1\Project1\Demo.c(9,11): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+D:\Code C\Raylib\Project1\Project1\Demo.c(9,17): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+  Funny.c
+  Game.c
+  Menu.c
+D:\Code C\Raylib\Project1\Project1\Menu.c(17,66): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Code C\Raylib\Project1\Project1\Menu.c(17,88): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\Code C\Raylib\Project1\Project1\Menu.c(17,111): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\Code C\Raylib\Project1\Project1\Menu.c(18,58): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Code C\Raylib\Project1\Project1\Menu.c(18,80): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\Code C\Raylib\Project1\Project1\Menu.c(18,103): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\Code C\Raylib\Project1\Project1\Menu.c(36,25): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+  assist.c
+  正在生成代码...
+  Project1.vcxproj -> D:\Code C\Raylib\Project1\x64\Debug\TinyGame.exe
